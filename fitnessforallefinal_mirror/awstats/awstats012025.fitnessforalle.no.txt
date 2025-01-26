@@ -1,0 +1,570 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.fitnessforalle.no.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2070                
+POS_TIME 2753                
+POS_VISITOR 3473                
+POS_DAY 9875                
+POS_DOMAIN 10028               
+POS_LOGIN 10259               
+POS_ROBOT 10414               
+POS_WORMS 10681               
+POS_EMAILSENDER 10812               
+POS_EMAILRECEIVER 10955               
+POS_SESSION 11031               
+POS_SIDER 11188               
+POS_FILETYPES 12796               
+POS_DOWNLOADS 13045               
+POS_OS 13093               
+POS_BROWSER 13248               
+POS_SCREENSIZE 13557               
+POS_UNKNOWNREFERER 13631               
+POS_UNKNOWNREFERERBROWSER 13919               
+POS_ORIGIN 14079               
+POS_SEREFERRALS 14216               
+POS_PAGEREFS 14360               
+POS_SEARCHWORDS 14953               
+POS_KEYWORDS 15105               
+POS_MISC 2417                
+POS_ERRORS 15164               
+POS_CLUSTER 10115               
+POS_SIDER_400 15295               
+POS_SIDER_403 15872               
+POS_SIDER_404 15973               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250115224216 646 197189 19683723363567
+FirstTime 20250115173205
+LastTime 20250115224216
+LastUpdate 20250115224301 646 0 639 5 2
+TotalVisits 62                  
+TotalUnique 57                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 202                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 25 25 1955425 39 42 178079
+18 23 23 1798991 5 6 2775
+19 4 4 312868 39 40 250104
+20 2 2 156434 5 5 79607
+21 7 7 547519 1 1 153
+22 91 459 22949619 23 25 79639
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 202
+162.158.222.86 41 48 2989773 20250115223042 20250115222909 /wordpress/
+162.158.222.29 22 25 2490806 20250115223235 20250115223130 /wordpress/wp-admin/plugin-install.php
+162.158.222.28 19 21 2502096 20250115223243 20250115223134 /wordpress/wp-admin/admin-ajax.php
+162.158.222.132 6 7 83283 20250115224216 20250115223628 /wordpress/wp-admin/admin-ajax.php
+162.158.222.133 5 6 916016 20250115223427 20250115223322 /wordpress/wp-admin/admin-ajax.php
+142.93.208.207 2 2 156434 20250115181924
+162.158.222.153 2 2 156434 20250115193600
+162.158.222.201 2 2 156434 20250115183044
+162.158.222.165 2 3 248658 20250115183044
+172.71.23.159 2 2 156434 20250115174449
+162.158.222.69 0 2 22897 
+162.158.222.128 0 2 95950 
+172.70.208.143 1 1 78217 20250115192130
+162.158.222.102 0 2 5840 
+172.70.91.51 0 1 5501 
+141.101.98.52 0 1 7212 
+172.71.30.14 1 1 78217 20250115174449
+162.158.222.197 0 1 10885 
+162.158.222.219 0 1 110617 
+162.158.222.55 0 2 18666 
+162.158.222.211 0 2 3604 
+162.158.222.71 0 5 30976 
+162.158.222.54 0 3 51437 
+172.71.31.147 1 1 78217 20250115174444
+162.158.222.53 0 5 76423 
+162.158.222.142 0 1 87394 
+162.158.222.52 0 4 25161 
+172.71.30.25 1 1 78217 20250115174959
+162.158.223.6 0 2 70984 
+172.70.163.39 1 1 20418 20250115223046 20250115223046 /wordpress/
+162.158.222.173 1 2 91505 20250115183044
+162.158.222.220 0 3 25970 
+162.158.222.47 0 1 2643 
+152.32.181.108 1 1 78217 20250115173205
+141.101.98.120 0 1 1936 
+172.70.163.5 0 1 5069 
+162.158.222.60 0 3 17404 
+162.158.223.16 0 6 164046 
+206.168.34.47 1 1 78217 20250115175634
+162.158.222.113 0 1 11317 
+162.158.222.98 0 4 83540 
+162.158.222.107 0 5 20410 
+162.158.222.59 0 3 27257 
+162.158.222.240 0 2 59070 
+162.158.222.21 0 1 3280 
+162.158.222.200 0 1 11256 
+203.55.131.5 1 1 78217 20250115183045
+162.158.222.147 0 1 453 
+162.158.222.198 1 1 78217 20250115183044
+162.158.222.62 1 1 78217 20250115183045
+162.158.222.224 0 2 494 
+162.158.222.234 1 1 78217 20250115183044
+172.71.31.75 1 1 78217 20250115174210
+162.158.222.63 0 2 29552 
+162.158.222.64 0 2 650376 
+162.158.222.27 0 3 9197 
+162.158.222.244 0 2 76245 
+162.158.222.65 0 2 9218 
+162.158.222.127 0 2 1373 
+162.158.222.184 0 1 2703 
+162.158.222.97 0 1 1467 
+141.101.98.193 0 1 114706 
+162.158.222.91 0 1 14209 
+162.158.222.10 0 1 5486 
+162.158.222.110 0 3 32634 
+162.158.222.48 0 4 55492 
+162.158.222.183 0 1 783428 
+162.158.222.85 0 1 10628 
+162.158.222.76 0 2 10920 
+162.158.222.13 0 4 20191 
+162.158.222.83 0 3 193369 
+172.71.22.51 1 1 78217 20250115180030
+162.158.222.203 0 1 340 
+162.158.222.15 1 2 79305 20250115213035
+172.71.31.101 1 1 78217 20250115175011
+162.158.222.199 1 2 133915 20250115213035
+162.158.222.84 0 3 846486 
+162.158.222.9 0 6 25971 
+162.158.222.82 0 3 449606 
+162.158.222.196 0 2 931 
+162.158.222.156 0 1 114706 
+162.158.222.136 0 2 35104 
+162.158.222.146 0 1 155343 
+108.162.237.121 1 1 78217 20250115175943
+172.70.86.217 0 1 53257 
+162.158.223.17 0 7 93974 
+162.158.222.19 0 7 42784 
+162.158.222.105 0 5 154438 
+162.158.222.101 0 3 21513 
+162.158.222.126 0 5 81291 
+162.158.222.46 0 1 643611 
+162.158.222.89 0 4 866458 
+162.158.222.139 0 1 129351 
+162.158.222.155 0 2 3710 
+162.158.222.109 0 5 29278 
+162.158.223.8 0 5 852134 
+172.69.70.33 1 1 78217 20250115175006
+162.158.222.26 0 1 98308 
+172.71.30.179 1 1 78217 20250115174957
+162.158.222.125 0 5 123213 
+162.158.222.106 0 1 564 
+162.158.222.212 0 4 30468 
+162.158.222.229 0 1 235244 
+162.158.222.246 0 1 12058 
+162.158.222.236 1 3 98007 20250115183044
+172.69.70.19 1 1 78217 20250115175045
+162.158.222.226 0 1 330 
+162.158.222.70 0 2 11959 
+162.158.222.189 0 1 23497 
+172.68.71.152 1 1 78217 20250115181535
+162.158.222.172 0 1 12622 
+162.158.222.181 0 2 6617 
+162.158.222.49 0 1 357 
+162.158.222.185 0 3 27391 
+162.158.222.75 0 1 25908 
+162.158.222.251 0 1 6170 
+46.19.138.234 1 1 78217 20250115195220
+162.158.222.74 1 4 129131 20250115183044
+162.158.222.231 0 1 4134 
+162.158.222.16 0 1 5769 
+172.70.162.20 0 1 1368 
+162.158.222.112 0 2 2941 
+162.158.222.72 0 6 68605 
+162.158.222.225 0 2 788 
+162.158.222.57 0 5 125773 
+172.69.70.156 1 1 78217 20250115175943
+162.158.222.166 0 1 37843 
+108.162.238.67 1 1 78217 20250115174143
+162.158.222.42 0 2 15760 
+162.158.222.143 0 2 97953 
+162.158.222.43 0 2 25083 
+162.158.222.44 0 1 88247 
+162.158.222.45 0 1 17704 
+172.71.31.40 1 1 78217 20250115174449
+18.216.4.246 1 1 78217 20250115174537
+162.158.222.20 0 7 150179 
+162.158.222.79 0 1 463 
+162.158.222.23 0 2 7773 
+162.158.222.88 0 1 172972 
+162.158.223.7 2 6 176662 20250115213036
+172.70.160.185 0 1 18726 
+162.158.222.24 0 3 65955 
+162.158.222.67 0 3 7262 
+162.158.222.25 0 1 716 
+162.158.222.103 0 3 138775 
+162.158.222.18 1 3 90929 20250115213035
+162.158.222.40 0 4 95743 
+162.158.222.177 0 1 122957 
+162.158.222.214 0 2 17511 
+162.158.222.61 0 1 200 
+172.68.70.212 1 1 78217 20250115173954
+162.158.222.22 0 2 1622 
+162.158.222.92 0 1 252 
+108.162.237.17 1 1 78217 20250115175011
+162.158.222.104 0 4 353242 
+172.71.119.35 2 2 156434 20250115174748
+162.158.222.168 0 2 6737 
+162.158.222.150 0 2 26857 
+162.158.222.95 1 2 88416 20250115183044
+172.68.70.191 1 1 78217 20250115174449
+179.43.191.146 1 1 78217 20250115203601
+162.158.222.207 0 1 90757 
+162.158.222.94 0 4 160338 
+162.158.222.93 0 5 846919 
+172.69.70.63 1 1 78217 20250115174150
+162.158.222.130 0 1 14241 
+162.158.222.11 0 1 153 
+162.158.222.56 0 3 8036 
+162.158.222.124 0 4 680044 
+162.158.222.81 0 2 13497 
+162.158.222.17 0 5 22960 
+162.158.222.227 0 1 1936 
+162.158.222.68 0 1 3039 
+162.158.222.87 1 2 85242 20250115183043
+172.68.71.103 1 1 78217 20250115174101
+162.158.223.14 0 2 4893 
+172.68.71.125 1 1 78217 20250115175947
+162.158.222.33 0 4 95850 
+162.158.222.194 0 2 14789 
+162.158.222.116 0 3 7981 
+162.158.222.35 0 5 247820 
+162.158.222.202 0 1 180 
+162.158.223.9 0 1 9009 
+162.158.222.188 1 4 144228 20250115183045
+162.158.6.62 1 1 78217 20250115193637
+162.158.223.12 0 1 64181 
+66.240.223.202 1 1 78217 20250115200840
+162.158.222.238 0 2 14713 
+162.158.222.176 0 1 117290 
+162.158.222.58 0 2 22902 
+162.158.134.166 1 1 78217 20250115213056
+162.158.222.99 0 2 6211 
+162.158.222.222 0 1 2400 
+162.158.222.111 0 1 8375 
+162.158.222.115 0 1 458 
+162.158.222.232 0 3 1225507 
+162.158.222.242 0 2 9771 
+162.158.223.10 0 5 33154 
+162.158.222.66 0 2 128609 
+162.158.222.30 1 1 78217 20250115183044
+162.158.222.175 0 1 2900 
+162.158.222.171 1 1 78217 20250115183044
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20250115 152 520 27720856 62
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 152 520 27720856
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+wordpress 4 20 20250115223427 0
+no_user_agent 4 156434 20250115223045 0
+robot 3 234651 20250115193637 0
+curl 2 156434 20250115221943 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 55
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/ 34 2659378 32 32
+/wordpress/ 32 290337 1 0
+/wordpress/wp-admin/admin-ajax.php 27 347984 2 0
+/wordpress/wp-admin/load-scripts.php 10 1004337 1 0
+/wordpress/wp-admin/admin.php 6 433037 1 0
+/wordpress/wp-admin/load-styles.php 5 2286573 0 0
+/wordpress/wp-admin/plugin-install.php 3 361156 0 0
+/.well-known/acme-challenge/6B0I-9NNKB00BUM6H__W20LSNG1LK56U 2 156434 2 2
+/.well-known/acme-challenge/217916FNUCUR0F3LMG4VA08TH1V2DJJL 2 156434 1 1
+/.well-known/acme-challenge/80ZRRR1AYUTNI7VR6RV2UBTMXLCHW19N 2 156434 2 2
+/wordpress/wp-login.php 1 4663 1 0
+/.well-known/acme-challenge/94Q1MLKVI7S0F60-UURG-BT8BV5XPYON 2 156434 2 2
+/.well-known/acme-challenge/7H3I-GXVQRCV2TFQYR23LF755SMP4Y-9 2 156434 2 2
+/.well-known/acme-challenge/L92DPFWMLIVAVTJ1R9SFXBXDS6TNSGOR 2 156434 2 2
+/.well-known/assetlinks.json 2 156434 1 1
+/wordpress/wp-admin/plugins.php 2 188170 0 0
+/wordpress/wp-admin/update.php 1 51736 0 0
+/.well-known/acme-challenge/EBGVYJ-ODEJTFQI689KZU12KVO_YAEZV 2 156434 2 2
+/.well-known/acme-challenge/9I9_KOJ5E0NG8S8P2CF-AYZY-0BRRRF9 2 156434 2 2
+/.well-known/acme-challenge/FLU4EFX4ZQVUQA-ULPXU-RCRA2VIKOD3 2 156434 1 1
+/.well-known/acme-challenge/_-Q5F4F4DRTCVQ6942_SZ-MAMX2UP7GY 2 156434 2 2
+/.well-known/ 1 78217 1 1
+/wordpress/wp-admin/ 1 119137 0 0
+/wordpress/wp-admin/post.php 2 1854542 0 0
+/.well-known/acme-challenge/C_HB1XPCT3Q5QNN0GNNF800IXL4JOMHQ 2 156434 2 2
+/wordpress/wp-admin/edit.php 1 83508 0 0
+/.well-known/acme-challenge/8D384_BQQL-P7OXXUB1JZP9LP19LXSWJ 2 156434 2 2
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+gif 2 22774 0 0
+jpg 1 17704 0 0
+woff2 1 98308 0 0
+svg 9 85899 0 0
+php 126 9762775 0 0
+png 1 155343 0 0
+js 205 13813780 0 0
+css 149 1730631 0 0
+json 2 156434 0 0
+Unknown 24 1877208 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+ios_iphone 1 1
+macosx9 1 1
+macosx15 2 2
+winlong 1 1
+linux 9 1
+win10 478 118
+Unknown 28 28
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome132.0.0.0 451 91
+mozilla 1 1
+opera57.0.3098.116 1 1
+chrome90.0.4430.85 3 3
+chrome70.0.3538.77 22 22
+Unknown 26 26
+netscape5.0 2 2
+chrome126.0.0.0 1 1
+chrome102.0.0.0 1 1
+safari16.2 1 1
+chrome64.0.3282.119 1 1
+chrome120.0.0.0 1 1
+chrome101.0.4950.0 9 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250115175634
+GoogleAssociationService 20250115174748
+Cpanel-HTTP-Client/1.0 20250115213036
+Mozilla/5.0_zgrab/0.x 20250115200840
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+GoogleAssociationService 20250115174748
+Cpanel-HTTP-Client/1.0 20250115213036
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 41 50
+From1 1 1
+From2 0 0
+From3 23 23
+From4 87 446
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+http://104.21.96.1:8880 5 5
+http://104.21.96.1:2086 2 2
+http://104.21.96.1:8080 2 2
+http://104.21.96.1:80 2 2
+http://104.21.48.1:2082 1 1
+http://104.21.80.1:80 1 1
+http://104.21.64.1:8080 1 1
+http://104.21.48.1:8880 1 1
+http://104.21.48.1:80 1 1
+http://104.21.96.1:2082 1 1
+http://104.21.48.1:2086 1 1
+https://192.168.1.16:10000 1 1
+http://104.21.112.1:80 1 1
+http://104.21.64.1:2086 1 1
+http://104.21.48.1:8080 1 1
+http://104.21.64.1:8880 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+400 30 11268
+302 10 50
+403 1 25
+301 3 338
+404 59 31137
+END_ERRORS
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 30
+/.ENV.EXAMPLE 1 -
+/CORE/.env 1 -
+/Application/.env 1 -
+/CONFIG/.env 1 -
+/CRM/.env 1 -
+/Core/.env 1 -
+/.ENV.example 1 -
+/CP/.env 1 -
+/Crm/.env 1 -
+/DATA/.env 1 -
+/Admin/.env 1 -
+/.env 1 -
+/ADMIN/.env 1 -
+/Credentials 1 -
+/Data/.env 1 -
+/Cp/.env 1 -
+/.Env 1 -
+/BACKEND/.env 1 -
+/Config/.env 1 -
+/.AWS/CREDENTIALS 1 -
+/.env.BAK 1 -
+/APPLICATION/.env 1 -
+/.AWS/credentials 1 -
+/.Aws/credentials 1 -
+/CREDENTIALS 1 -
+/.ENV 1 -
+/manager/html 1 -
+/.env.EXAMPLE 1 -
+/.Config.yaml 1 -
+/.CONFIG.yaml 1 -
+END_SIDER_400
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/cgi-bin/luci/ 1 -
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/home/fitnessforalle.no/public_html/wordpress/index.php/2025/01/15/hello-world/ 1 -
+/config.json 1 -
+/sites/default/files/ 1 binance.com
+/wp-admin/css/ 1 binance.com
+/images/ 1 binance.com
+/robots.txt 1 -
+/.git/config 4 -
+/admin/controller/extension/extension/ 1 binance.com
+/dispatch.asp 1 -
+/aaa9 20 http://104.21.80.1:80/aaa9
+/home/fitnessforalle.no/public_html/wordpress/2025/01/15/hello-world/ 1 -
+/aab9 19 http://104.21.80.1:80/aab9
+/files/ 1 binance.com
+/.env 1 -
+/sitemap.xml 1 -
+/home/fitnessforalle.no/public_html/wordpress/wp-cron.php 1 -
+/dev-sw.js 2 https://www.fitnessforalle.no/dev-sw.js
+/uploads/ 1 binance.com
+END_SIDER_404

@@ -1,0 +1,112 @@
+Return-Path: <>
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on
+	server.fitnessforalle.no
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.0 required=5.0 tests=NO_RELAYS autolearn=ham
+	autolearn_force=no version=3.4.6
+X-Original-To: fitnessforalle.no@server.fitnessforalle.no
+Delivered-To: fitnessforalle.no@server.fitnessforalle.no
+Received: by server.fitnessforalle.no (Postfix)
+	id 72C472054F0; Fri, 24 Jan 2025 20:50:47 +0100 (CET)
+Date: Fri, 24 Jan 2025 20:50:47 +0100 (CET)
+From: MAILER-DAEMON@server.fitnessforalle.no (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: fitnessforalle.no@server.fitnessforalle.no
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="48A7B2054EF.1737748247/server.fitnessforalle.no"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20250124195047.72C472054F0@server.fitnessforalle.no>
+
+This is a MIME-encapsulated message.
+
+--48A7B2054EF.1737748247/server.fitnessforalle.no
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host server.fitnessforalle.no.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<rondanielpedersen@gmail.com>: host gmail-smtp-in.l.google.com[64.233.161.27]
+    said: 550-5.7.26 Your email has been blocked because the sender is
+    unauthenticated. 550-5.7.26 Gmail requires all senders to authenticate with
+    either SPF or DKIM. 550-5.7.26  550-5.7.26  Authentication results:
+    550-5.7.26  DKIM = did not pass 550-5.7.26  SPF [server.fitnessforalle.no]
+    with ip: [84.208.234.34] = did not 550-5.7.26 pass 550-5.7.26  550-5.7.26
+    For instructions on setting up authentication, go to 550 5.7.26
+    https://support.google.com/mail/answer/81126#authentication
+    2adb3069b0e04-543c8392ed9si960578e87.454 - gsmtp (in reply to end of DATA
+    command)
+
+--48A7B2054EF.1737748247/server.fitnessforalle.no
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server.fitnessforalle.no
+X-Postfix-Queue-ID: 48A7B2054EF
+X-Postfix-Sender: rfc822; fitnessforalle.no@server.fitnessforalle.no
+Arrival-Date: Fri, 24 Jan 2025 20:50:46 +0100 (CET)
+
+Final-Recipient: rfc822; rondanielpedersen@gmail.com
+Original-Recipient: rfc822;rondanielpedersen@gmail.com
+Action: failed
+Status: 5.7.26
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.26 Your email has been blocked because the
+    sender is unauthenticated. 550-5.7.26 Gmail requires all senders to
+    authenticate with either SPF or DKIM. 550-5.7.26  550-5.7.26
+    Authentication results: 550-5.7.26  DKIM = did not pass 550-5.7.26  SPF
+    [server.fitnessforalle.no] with ip: [84.208.234.34] = did not 550-5.7.26
+    pass 550-5.7.26  550-5.7.26  For instructions on setting up authentication,
+    go to 550 5.7.26
+    https://support.google.com/mail/answer/81126#authentication
+    2adb3069b0e04-543c8392ed9si960578e87.454 - gsmtp
+
+--48A7B2054EF.1737748247/server.fitnessforalle.no
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <fitnessforalle.no@server.fitnessforalle.no>
+Received: by server.fitnessforalle.no (Postfix, from userid 1012)
+	id 48A7B2054EF; Fri, 24 Jan 2025 20:50:46 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 server.fitnessforalle.no 48A7B2054EF
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fitnessforalle.no;
+	s=202500; t=1737748246;
+	bh=/ig9c2aVV4DTj0NiOicxQ7TJMsBN3WsiXTyxQB+jSzc=;
+	h=To:Subject:Date:From:From;
+	b=Lt0BaoARQh0Ch9kFsqcjb8Ge2Wy/tzMVBkjplZO5/XEJQqKgDVKmLbERNQfkd6rt9
+	 Lm6kiuYPVxHzyNyRZObB0DwQgxLPJ3esz5i+hAKgX+/ytAl2SrS9NqFxDeR979CGOf
+	 RYi8PUcdikJG+LXqTTURfSd+khXgcl+mciSlm0/6KF4/awBY5bPJ2Z2ncAymsNmla9
+	 llTeKIZ3JPaOf+lH0fs1meDQjPfn+L/HKgTg6s/dP9VPEYa53/WOEBP/H5/YYbxYba
+	 zcMDKeLDpTIfCNeuJ0qf1cJttOpr7LoBObTgKUk9Fm83frosMqBV4bp9H91wiMF7NP
+	 pihZM8b1Wg3kw==
+To: rondanielpedersen@gmail.com
+Subject: [Fitnessforalle] New User Registration
+Date: Fri, 24 Jan 2025 19:50:46 +0000
+From: WordPress <wordpress@fitnessforalle.no>
+Message-ID: <Ut97Q0NOjRi6pobxuT3VFreOH6K75cRDf7Mb9EJG9N0@fitnessforalle.no>
+X-Mailer: PHPMailer 6.9.2 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+New user registration on your site Fitnessforalle:
+
+Username: Vidar
+
+Email: vidar@vidartessem.no
+
+
+--48A7B2054EF.1737748247/server.fitnessforalle.no--
+

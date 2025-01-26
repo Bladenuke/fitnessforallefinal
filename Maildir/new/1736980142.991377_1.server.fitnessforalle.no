@@ -1,0 +1,45 @@
+Return-Path: <fitnessforalle.no@server.fitnessforalle.no>
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on
+	server.fitnessforalle.no
+X-Spam-Level: 
+X-Spam-Status: No, score=0.2 required=5.0 tests=DKIM_INVALID,DKIM_SIGNED,
+	NO_RELAYS autolearn=no autolearn_force=no version=3.4.6
+X-Original-To: fitnessforalle.no@fitnessforalle.no
+Delivered-To: fitnessforalle.no@server.fitnessforalle.no
+Received: by server.fitnessforalle.no (Postfix, from userid 1012)
+	id 2D16520019E; Wed, 15 Jan 2025 22:29:02 +0000 (UTC)
+DKIM-Filter: OpenDKIM Filter v2.11.0 server.fitnessforalle.no 2D16520019E
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fitnessforalle.no;
+	s=202500; t=1736980142;
+	bh=26FWTNmxiE9K3POQhlWx7/ad3m1StULlPcSdddgQIRU=;
+	h=To:Subject:Date:From:From;
+	b=Bi+aiVkrCC2rGXfmzmPpkBTc4KhI39IbgmcxuoKV8iLOIXCmSkN1W3ILncoKRPD8Q
+	 ksCi5KXYX+Si1UiabH5GuyT1Ef+UUOHyMyo0LbcEMvRUtbTd8tk28l6ZNfaEiBrncs
+	 ywbD2eEZ2ApaCiPZ2Y6zvrKxBUuAfMaY+TtwGKCgVvU4XdDhKewzoEdL/mt2Kg/Odh
+	 3cvMK/wxGwuAPxN4EIrHep0awy+zu1S70ctfts5j34zkw6l9UBeU6jqWC1XbVaSWZF
+	 WBlkynpM27biCJV7ftsS4e0UswO3jErWEJU2nA8qRr04Pwmbba6Uir2cMnSngaqZe9
+	 jjFn/w9tfowsQ==
+To: fitnessforalle.no@fitnessforalle.no
+Subject: New WordPress Site
+Date: Wed, 15 Jan 2025 22:29:02 +0000
+From: WordPress <wordpress@fitnessforalle.no>
+Message-ID: <I9MbNyJ7Nymnsnx0bVUEMdhL2hJPiS7LE15ONTjB5ao@fitnessforalle.no>
+X-Mailer: PHPMailer 6.9.2 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+https://fitnessforalle.no/home/fitnessforalle.no/public_html/wordpress
+
+You can log in to the administrator account with the following information:
+
+Username: fitnessforalle.no
+Password: The password you chose during installation.
+Log in here: https://fitnessforalle.no/home/fitnessforalle.no/public_html/wordpress/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+

@@ -1,0 +1,14 @@
+ovelsebibliotek/
+ovelsebibliotek/
+*.log
+node_modules/
+.env
+ovelsesbibliotek/
+ovelsesbibliotek/
+domains/admin.fitnessforalle.no/
+domains/api.fitnessforalle.no/
+domains/data.fitnessforalle.no/
+domains/mobil.fitnessforalle.no/
+*.log
+tmp/
+logs/

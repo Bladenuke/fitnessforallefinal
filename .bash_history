@@ -1,0 +1,3 @@
+exit
+php -v
+exit
